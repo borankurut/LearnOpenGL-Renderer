@@ -1,0 +1,4 @@
+subprojects/
+include/stb_image.h
+models/
+textures/
